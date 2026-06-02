@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "entries": [
+    "kinetic_pixel_fix:bluemap_1_mineshaft",
+    "kinetic_pixel_fix:bluemap_1_nether_bridge",
+    "kinetic_pixel_fix:bluemap_1_pillager",
+    "kinetic_pixel_fix:bluemap_1_trial_ominous",
+    "kinetic_pixel_fix:bluemap_1_trial_reward",
+    "kinetic_pixel_fix:bluemap_1_woodland",
+    "kinetic_pixel_fix:bluemap_2_jungle",
+    "kinetic_pixel_fix:bluemap_2_nether_bridge",
+    "kinetic_pixel_fix:bluemap_2_pillager",
+    "kinetic_pixel_fix:bluemap_2_trial_ominous",
+    "kinetic_pixel_fix:bluemap_2_trial_reward",
+    "kinetic_pixel_fix:bluemap_2_woodland",
+    "kinetic_pixel_fix:bluemap_3_trial_ominous",
+    "kinetic_pixel_fix:bluemap_3_trial_reward",
+    "kinetic_pixel_fix:bluemap_3_woodland",
+    "kinetic_pixel_fix:bluemap_4_end",
+    "kinetic_pixel_fix:componenttemplate",
+    "kinetic_pixel_fix:gray_cotton_plains",
+    "kinetic_pixel_fix:gray_cotton_savanna",
+    "kinetic_pixel_fix:gray_cotton_taiga"
+  ]
+}
