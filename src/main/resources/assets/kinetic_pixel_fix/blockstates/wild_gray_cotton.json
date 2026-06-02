@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "age=0": { "model": "kinetic_pixel_fix:block/wild_gray_cotton_stage0" },
+    "age=1": { "model": "kinetic_pixel_fix:block/wild_gray_cotton_stage1" },
+    "age=2": { "model": "kinetic_pixel_fix:block/wild_gray_cotton_stage2" },
+    "age=3": { "model": "kinetic_pixel_fix:block/wild_gray_cotton_stage3" }
+  }
+}

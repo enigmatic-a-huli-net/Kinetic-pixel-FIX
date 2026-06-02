@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kinetic_pixel_fix:block/firearmworktable"
+    },
+    "facing=east": {
+      "model": "kinetic_pixel_fix:block/firearmworktable",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kinetic_pixel_fix:block/firearmworktable",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kinetic_pixel_fix:block/firearmworktable",
+      "y": 270
+    }
+  }
+}
