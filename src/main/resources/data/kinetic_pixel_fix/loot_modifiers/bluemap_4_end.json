@@ -1,0 +1,10 @@
+{
+  "type": "kinetic_pixel_fix:add_chest_loot",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/end_city_treasure"
+    }
+  ],
+  "lootTable": "kinetic_pixel_fix:inject/bluemap_4"
+}
