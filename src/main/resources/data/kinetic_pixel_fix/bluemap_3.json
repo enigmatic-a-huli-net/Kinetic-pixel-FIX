@@ -1,0 +1,52 @@
+{
+  "type": "kinetic_pixel_fix:add_chest_loot",
+  "conditions": [
+  
+  
+    {
+      "condition": "minecraft:all_of",
+      "terms": [
+        {
+          "condition": "neoforge:loot_table_id",
+          "loot_table_id": "minecraft:chests/mansion"
+        },
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.01
+        }
+      ]
+    },
+  
+  
+        {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "neoforge:loot_table_id",
+              "loot_table_id": "minecraft:chests/trial_chambers/reward"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.15
+            }
+          ]
+        },
+		
+		
+        {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "neoforge:loot_table_id",
+              "loot_table_id": "minecraft:chests/trial_chambers/reward_ominous"
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.30
+            }
+          ]
+        }
+  
+  
+  "lootTable": "kinetic_pixel_fix:inject/bluemap_3"
+}
