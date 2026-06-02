@@ -1,0 +1,9 @@
+{
+  "parent": "kinetic_pixel_fix:custom/firearm_worktable",
+  "textures": {
+    "all": "kinetic_pixel_fix:block/firearmworktable",
+    "particle": "kinetic_pixel_fix:block/firearmworktable",
+    "1": "kinetic_pixel_fix:block/firearmworktable"
+  },
+  "render_type": "solid"
+}

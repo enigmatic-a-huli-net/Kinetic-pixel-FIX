@@ -1,0 +1,9 @@
+{
+  "parent": "kinetic_pixel_fix:custom/graycotton0",
+  "textures": {
+    "all": "kinetic_pixel_fix:block/graycotton0",
+    "particle": "kinetic_pixel_fix:block/graycotton0",
+    "0": "kinetic_pixel_fix:block/graycotton0"
+  },
+  "render_type": "cutout"
+}

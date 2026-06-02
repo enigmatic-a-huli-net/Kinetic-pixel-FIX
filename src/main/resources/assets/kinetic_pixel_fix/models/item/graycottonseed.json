@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kinetic_pixel_fix:item/graycottonseed"
+  },
+  "render_type": "translucent"
+}
