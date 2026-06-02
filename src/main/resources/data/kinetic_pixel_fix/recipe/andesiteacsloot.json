@@ -1,0 +1,103 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:andesite_alloy"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 1,
+      "id": "kinetic_pixel_fix:andesitealloycompressionsheet"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        },
+        {
+          "amount": 250,
+          "fluid": "minecraft:lava",
+          "type": "fluid_stack"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        },
+        [
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        },
+        [
+          {
+            "item": "create:andesite_alloy"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompleteandesitealloycompressionsheet"
+  }
+}

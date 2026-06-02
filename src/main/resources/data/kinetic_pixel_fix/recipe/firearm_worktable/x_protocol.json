@@ -1,0 +1,32 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_4",
+  "craft_time": 9600,
+  "ingredients": {
+    "2": "create:iron_sheet",
+    "3": "create:iron_sheet",
+    "4": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "10": "kinetic_pixel_fix:ammunitionbox",
+    "11": "kinetic_pixel_fix:ammunitionbox",
+    "12": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "13": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "14": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "15": "create:iron_sheet",
+    "17": "kinetic_pixel_fix:barrel",
+    "18": "kinetic_pixel_fix:barrel",
+    "19": "kinetic_pixel_fix:barrel",
+    "20": "kinetic_pixel_fix:pistonexciter",
+    "21": "create:precision_mechanism",
+    "22": "create:cogwheel",
+    "23": "create:iron_sheet",
+    "27": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "28": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "29": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "30": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "31": "kinetic_pixel_fix:gascylinder"
+  },
+  "result": {
+    "id": "pointblank:x_protocol",
+    "count": 1
+  }
+}

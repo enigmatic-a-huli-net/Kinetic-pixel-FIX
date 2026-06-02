@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:suspicious_sand"
+    },
+    "b": {
+      "item": "kinetic_pixel_fix:test"
+    }
+  },
+  "result": {
+    "id": "minecraft:andesite_stairs",
+    "count": 1
+  }
+}

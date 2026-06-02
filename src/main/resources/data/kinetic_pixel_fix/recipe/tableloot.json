@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "create:mechanical_piston"
+    },
+    "b": {
+      "item": "create:cogwheel"
+    },
+    "c": {
+      "item": "create:chute"
+    },
+    "d": {
+      "item": "create:brass_ingot"
+    }
+  },
+  "result": {
+    "id": "kinetic_pixel_fix:firearmworktable",
+    "count": 1
+  }
+}

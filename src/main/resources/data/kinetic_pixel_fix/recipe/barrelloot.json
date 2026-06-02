@@ -1,0 +1,72 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kinetic_pixel_fix:specialsteelingot"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "chance": 130,
+      "id": "kinetic_pixel_fix:barrel",
+      "count": 1
+    },
+    {
+      "chance": 20,
+      "id": "kinetic_pixel_fix:wastedbarrel",
+      "count": 1
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebarrel"
+        }
+      ],
+      "processingTime": 50,
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletebarrel",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebarrel"
+        },
+        [
+          {
+            "item": "minecraft:blaze_powder"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletebarrel",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebarrel"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletebarrel",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompletebarrel"
+  }
+}

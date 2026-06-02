@@ -1,0 +1,103 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 1,
+      "id": "kinetic_pixel_fix:brasscompressionsheet"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "type": "fluid_stack"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        },
+        [
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        },
+        [
+          {
+            "item": "create:brass_sheet"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompletebrasscompressionsheet"
+  }
+}

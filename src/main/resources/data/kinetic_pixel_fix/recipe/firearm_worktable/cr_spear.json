@@ -1,0 +1,38 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_1",
+  "craft_time": 1800,
+  "ingredients": {
+    "1": "kinetic_pixel_fix:brasscompressionsheet",
+    "2": "create:iron_sheet",
+    "3": "create:iron_sheet",
+    "4": "kinetic_pixel_fix:brasscompressionsheet",
+    "5": "kinetic_pixel_fix:brasscompressionsheet",
+    "6": "kinetic_pixel_fix:brasscompressionsheet",
+    "7": "kinetic_pixel_fix:brasscompressionsheet",
+    "8": "kinetic_pixel_fix:brasscompressionsheet",
+    "9": "create:chute",
+    "10": "create:iron_sheet",
+    "11": "create:chute",
+    "12": "create:chute",
+    "13": "create:cogwheel",
+    "14": "kinetic_pixel_fix:ammunitionbox",
+    "15": "create:chute",
+    "16": "create:sturdy_sheet",
+    "17": "kinetic_pixel_fix:brasscompressionsheet",
+    "18": "create:iron_sheet",
+    "19": "kinetic_pixel_fix:brasscompressionsheet",
+    "20": "kinetic_pixel_fix:brasscompressionsheet",
+    "21": "minecraft:iron_ingot",
+    "22": "kinetic_pixel_fix:brasscompressionsheet",
+    "23": "kinetic_pixel_fix:brasscompressionsheet",
+    "24": "kinetic_pixel_fix:brasscompressionsheet",
+    "28": "minecraft:iron_ingot",
+    "29": "kinetic_pixel_fix:strikerexciter",
+    "30": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "pointblank:cr_spear",
+    "count": 1
+  }
+}

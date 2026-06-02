@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "A": {
+      "item": "kinetic_pixel_fix:specialsteelingot"
+    },
+    "B": {
+      "item": "kinetic_pixel_fix:componenttemplate"
+    },
+    "C": {
+      "item": "kinetic_pixel_fix:barrel"
+    }
+  },
+  "pattern": [
+    "AA",
+    "BC",
+    "AA"
+  ],
+  "result": {
+    "id": "pointblank:tanksuppressor"
+  }
+}

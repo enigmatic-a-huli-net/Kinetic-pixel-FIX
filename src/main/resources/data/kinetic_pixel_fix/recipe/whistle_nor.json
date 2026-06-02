@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:copper_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 130,
+      "id": "pointblank:whistle_nor"
+    },
+    {
+      "chance": 10,
+      "id": "create:copper_nugget"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ],
+      "processing_time": 50,
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlenor"
+        },
+        [
+          {
+            "item": "kinetic_pixel_fix:nitropropellant"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlenor"
+        },
+        [
+          {
+            "item": "create:zinc_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlenor"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompletewhistlenor"
+  }
+}

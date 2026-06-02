@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "kinetic_pixel_fix:wild_gray_cotton_patch",
+  "step": "vegetal_decoration"
+}

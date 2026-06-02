@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kinetic_pixel_fix:emptygascylinder"
+    }
+  ],
+  "results": [
+    {
+      "id": "kinetic_pixel_fix:gascylinder"
+    }
+  ]
+}

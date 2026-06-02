@@ -1,0 +1,32 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_4",
+  "craft_time": 1200,
+  "ingredients": {
+    "1": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "2": "create:cogwheel",
+    "3": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "4": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "5": "create:iron_sheet",
+    "6": "create:iron_sheet",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "create:precision_mechanism",
+    "14": "minecraft:copper_ingot",
+    "15": "minecraft:netherite_ingot",
+    "16": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "17": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "18": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "19": "kinetic_pixel_fix:ammunitionbox",
+    "20": "kinetic_pixel_fix:pistonexciter",
+    "21": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "22": "minecraft:nether_star",
+    "23": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "31": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "pointblank:x_cross_star",
+    "count": 1
+  }
+}

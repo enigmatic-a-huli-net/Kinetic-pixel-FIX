@@ -1,0 +1,36 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_3",
+  "craft_time": 4800,
+  "ingredients": {
+    "2": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "3": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "4": "create:iron_sheet",
+    "5": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "6": "create:iron_sheet",
+    "9": "kinetic_pixel_fix:barrel",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "create:cogwheel",
+    "13": "kinetic_pixel_fix:ammunitionbox",
+    "14": "create:cogwheel",
+    "15": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "16": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "17": "kinetic_pixel_fix:barrel",
+    "18": "kinetic_pixel_fix:barrel",
+    "19": "kinetic_pixel_fix:barrel",
+    "20": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "21": "kinetic_pixel_fix:ammunitionbox",
+    "22": "kinetic_pixel_fix:pistonexciter",
+    "24": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "26": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "27": "kinetic_pixel_fix:gascylinder",
+    "28": "kinetic_pixel_fix:gascylinder",
+    "29": "kinetic_pixel_fix:ammunitionbox",
+    "31": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "pointblank:st_stifle",
+    "count": 1
+  }
+}

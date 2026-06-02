@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "B": {
+      "item": "kinetic_pixel_fix:specialsteelingot"
+    },
+    "A": {
+      "item": "minecraft:glass_pane"
+    },
+    "D": {
+      "item": "kinetic_pixel_fix:componenttemplate"
+    },
+    "C": {
+      "item": "create:electron_tube"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    "BACAB",
+    " BDB "
+  ],
+  "result": {
+    "id": "pointblank:horizon"
+  }
+}

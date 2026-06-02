@@ -1,0 +1,36 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_2",
+  "craft_time": 1600,
+  "ingredients": {
+    "1": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "2": "minecraft:amethyst_shard",
+    "3": "minecraft:amethyst_shard",
+    "4": "minecraft:amethyst_shard",
+    "5": "minecraft:amethyst_shard",
+    "6": "create:iron_sheet",
+    "10": "minecraft:blaze_rod",
+    "11": "minecraft:blaze_rod",
+    "12": "create:electron_tube",
+    "13": "create:cogwheel",
+    "14": "create:precision_mechanism",
+    "15": "create:iron_sheet",
+    "16": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "17": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "18": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "19": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "20": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "21": "kinetic_pixel_fix:strikerexciter",
+    "22": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "24": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "28": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "29": "kinetic_pixel_fix:ammunitionbox",
+    "30": "kinetic_pixel_fix:enderalloycompressionsheet",
+    "31": "create:iron_sheet",
+    "32": "kinetic_pixel_fix:enderalloycompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:e_prism",
+    "count": 1
+  }
+}

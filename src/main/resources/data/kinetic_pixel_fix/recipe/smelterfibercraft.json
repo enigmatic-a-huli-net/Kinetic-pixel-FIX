@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "create:sand_paper"
+    },
+    "b": {
+      "item": "kinetic_pixel_fix:ironwire"
+    }
+  },
+  "result": {
+    "id": "kinetic_pixel_fix:smelter_fiber",
+    "count": 1
+  }
+}

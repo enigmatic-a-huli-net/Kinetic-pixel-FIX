@@ -1,0 +1,27 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_1",
+  "craft_time": 7800,
+  "ingredients": {
+    "3": "kinetic_pixel_fix:brasscompressionsheet",
+    "4": "kinetic_pixel_fix:brasscompressionsheet",
+    "5": "create:iron_sheet",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "kinetic_pixel_fix:strikerexciter",
+    "14": "kinetic_pixel_fix:brasscompressionsheet",
+    "18": "kinetic_pixel_fix:brasscompressionsheet",
+    "19": "kinetic_pixel_fix:brasscompressionsheet",
+    "20": "kinetic_pixel_fix:brasscompressionsheet",
+    "21": "minecraft:iron_ingot",
+    "22": "kinetic_pixel_fix:ammunitionbox",
+    "23": "kinetic_pixel_fix:ammunitionbox",
+    "29": "create:cogwheel",
+    "30": "kinetic_pixel_fix:brasscompressionsheet",
+    "31": "kinetic_pixel_fix:brasscompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:cr_sar",
+    "count": 1
+  }
+}

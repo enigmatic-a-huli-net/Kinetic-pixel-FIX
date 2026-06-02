@@ -1,0 +1,28 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_3",
+  "craft_time": 18000,
+  "ingredients": {
+    "2": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "3": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "4": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "5": "create:iron_sheet",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "kinetic_pixel_fix:ammunitionbox",
+    "14": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "18": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "19": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "20": "create:andesite_casing",
+    "21": "kinetic_pixel_fix:pistonexciter",
+    "22": "create:cogwheel",
+    "23": "kinetic_pixel_fix:gascylinder",
+    "24": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "31": "kinetic_pixel_fix:andesitealloycompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:st_beca",
+    "count": 1
+  }
+}

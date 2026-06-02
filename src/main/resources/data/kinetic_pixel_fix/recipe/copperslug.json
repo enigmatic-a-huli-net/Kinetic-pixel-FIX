@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "pointblank:shrapnel"
+    },
+    {
+      "item": "create:copper_nugget"
+    }
+  ],
+  "results": [
+    {
+      "id": "pointblank:copperslug"
+    }
+  ]
+}

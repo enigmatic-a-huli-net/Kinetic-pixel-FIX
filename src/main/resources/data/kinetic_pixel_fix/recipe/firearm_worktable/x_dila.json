@@ -1,0 +1,32 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_4",
+  "craft_time": 18000,
+  "ingredients": {
+    "1": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "2": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "3": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "4": "create:iron_sheet",
+    "5": "create:iron_sheet",
+    "9": "kinetic_pixel_fix:barrel",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "create:precision_mechanism",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "create:cogwheel",
+    "14": "minecraft:iron_ingot",
+    "15": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "17": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "18": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "19": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "20": "kinetic_pixel_fix:ammunitionbox",
+    "21": "kinetic_pixel_fix:pistonexciter",
+    "23": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "29": "kinetic_pixel_fix:ammunitionbox",
+    "30": "create:iron_sheet",
+    "31": "kinetic_pixel_fix:specialsteelcompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:x_dila",
+    "count": 1
+  }
+}

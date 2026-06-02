@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "kinetic_pixel_fix:specialsteelingot"
+    },
+    "b": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "id": "kinetic_pixel_fix:ammunitionbox",
+    "count": 1
+  }
+}

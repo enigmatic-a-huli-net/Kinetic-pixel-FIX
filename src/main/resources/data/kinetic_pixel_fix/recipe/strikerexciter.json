@@ -1,0 +1,14 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_1",
+  "ingredients": {
+    "1": "create:iron_sheet",
+    "2": "create:iron_sheet",
+    "3": "minecraft:flint"
+  },
+  "result": {
+    "id": "kinetic_pixel_fix:strikerexciter",
+    "count": 1
+  },
+  "craft_time": 100
+}

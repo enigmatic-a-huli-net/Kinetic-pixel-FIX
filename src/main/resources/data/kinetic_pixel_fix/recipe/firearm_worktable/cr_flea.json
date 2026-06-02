@@ -1,0 +1,30 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_1",
+  "craft_time": 3600,
+  "ingredients": {
+    "2": "kinetic_pixel_fix:brasscompressionsheet",
+    "3": "kinetic_pixel_fix:brasscompressionsheet",
+    "4": "kinetic_pixel_fix:brasscompressionsheet",
+    "5": "create:iron_sheet",
+    "6": "create:iron_sheet",
+    "9": "kinetic_pixel_fix:barrel",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "create:cogwheel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "kinetic_pixel_fix:ammunitionbox",
+    "14": "kinetic_pixel_fix:brasscompressionsheet",
+    "15": "minecraft:iron_ingot",
+    "18": "minecraft:iron_ingot",
+    "19": "create:piston_extension_pole",
+    "20": "minecraft:iron_ingot",
+    "21": "kinetic_pixel_fix:strikerexciter",
+    "22": "minecraft:iron_ingot",
+    "24": "kinetic_pixel_fix:brasscompressionsheet",
+    "27": "kinetic_pixel_fix:brasscompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:cr_flea",
+    "count": 1
+  }
+}

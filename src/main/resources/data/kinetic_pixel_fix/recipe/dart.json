@@ -1,0 +1,56 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:iron_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "chance": 130,
+      "count": 6,
+      "id": "pointblank:dart"
+    },
+    {
+      "chance": 10,
+      "count": 6,
+      "id": "minecraft:iron_nugget"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletedart"
+        }
+      ],
+      "processing_time": 50,
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletedart"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletedart"
+        },
+        [
+          {
+            "item": "minecraft:iron_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletedart"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompletedart"
+  }
+}

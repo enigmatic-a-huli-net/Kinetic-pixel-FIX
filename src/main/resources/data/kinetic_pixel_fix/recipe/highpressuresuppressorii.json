@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "A": {
+      "item": "kinetic_pixel_fix:specialsteelingot"
+    },
+    "B": {
+      "item": "create:chute"
+    },
+    "C": {
+      "item": "kinetic_pixel_fix:barrel"
+    },
+    "D": {
+      "item": "kinetic_pixel_fix:componenttemplate"
+    }
+  },
+  "pattern": [
+    "AA A",
+    " D C",
+    "AABA"
+  ],
+  "result": {
+    "id": "pointblank:highpressuresuppressorii"
+  }
+}

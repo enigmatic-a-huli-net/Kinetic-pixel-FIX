@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "create:rose_quartz"
+    }
+  ],
+  "results": [
+    {
+      "count": 8,
+      "id": "pointblank:hotmagiccore"
+    }
+  ]
+}

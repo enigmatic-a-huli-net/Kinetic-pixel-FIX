@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "id": "kinetic_pixel_fix:bambooshell"
+    }
+  ]
+}

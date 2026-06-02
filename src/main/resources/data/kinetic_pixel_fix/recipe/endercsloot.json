@@ -1,0 +1,103 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kinetic_pixel_fix:enderalloyingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "count": 1,
+      "id": "kinetic_pixel_fix:enderalloycompressionsheet"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "type": "fluid_stack"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        },
+        [
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        },
+        [
+          {
+            "item": "kinetic_pixel_fix:enderalloyingot"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "count": 1,
+          "id": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompleteenderalloycompressionsheet"
+  }
+}

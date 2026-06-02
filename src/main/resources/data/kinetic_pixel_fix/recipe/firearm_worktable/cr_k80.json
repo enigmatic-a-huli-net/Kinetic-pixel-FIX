@@ -1,0 +1,28 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_1",
+  "craft_time": 10800,
+  "ingredients": {
+    "2": "kinetic_pixel_fix:brasscompressionsheet",
+    "3": "kinetic_pixel_fix:brasscompressionsheet",
+    "4": "create:iron_sheet",
+    "5": "kinetic_pixel_fix:brasscompressionsheet",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "create:cogwheel",
+    "14": "kinetic_pixel_fix:ammunitionbox",
+    "15": "kinetic_pixel_fix:brasscompressionsheet",
+    "18": "kinetic_pixel_fix:brasscompressionsheet",
+    "19": "kinetic_pixel_fix:brasscompressionsheet",
+    "20": "kinetic_pixel_fix:brasscompressionsheet",
+    "21": "kinetic_pixel_fix:strikerexciter",
+    "22": "kinetic_pixel_fix:brasscompressionsheet",
+    "24": "kinetic_pixel_fix:brasscompressionsheet",
+    "31": "kinetic_pixel_fix:brasscompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:cr_k80",
+    "count": 1
+  }
+}

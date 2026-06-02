@@ -1,0 +1,33 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_1",
+  "craft_time": 12000,
+  "ingredients": {
+    "4": "kinetic_pixel_fix:brasscompressionsheet",
+    "5": "kinetic_pixel_fix:strikerexciter",
+    "6": "kinetic_pixel_fix:brasscompressionsheet",
+    "10": "kinetic_pixel_fix:brasscompressionsheet",
+    "11": "kinetic_pixel_fix:brasscompressionsheet",
+    "12": "pointblank:assaultgrip",
+    "13": "create:iron_sheet",
+    "14": "kinetic_pixel_fix:brasscompressionsheet",
+    "15": "kinetic_pixel_fix:brasscompressionsheet",
+    "18": "create:chute",
+    "19": "create:chute",
+    "20": "create:cogwheel",
+    "21": "create:cogwheel",
+    "22": "kinetic_pixel_fix:ammunitionbox",
+    "23": "create:cogwheel",
+    "24": "kinetic_pixel_fix:brasscompressionsheet",
+    "26": "kinetic_pixel_fix:brasscompressionsheet",
+    "27": "kinetic_pixel_fix:brasscompressionsheet",
+    "28": "kinetic_pixel_fix:brasscompressionsheet",
+    "29": "create:iron_sheet",
+    "30": "create:iron_sheet",
+    "31": "kinetic_pixel_fix:brasscompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:cr_meteor_fist",
+    "count": 1
+  }
+}

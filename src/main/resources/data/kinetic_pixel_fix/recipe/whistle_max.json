@@ -1,0 +1,116 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:copper_sheet"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "chance": 130,
+      "id": "pointblank:whistle_max"
+    },
+    {
+      "chance": 20,
+      "id": "create:copper_nugget"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlemax"
+        },
+        [
+          {
+            "item": "create:copper_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ],
+      "processing_time": 100,
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlemax"
+        },
+        [
+          {
+            "item": "kinetic_pixel_fix:nitropropellant"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletewhistlemax"
+        },
+        [
+          {
+            "item": "create:zinc_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletewhistlemax"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompletewhistlemax"
+  }
+}

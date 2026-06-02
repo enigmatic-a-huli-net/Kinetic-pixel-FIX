@@ -1,0 +1,28 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_3",
+  "craft_time": 6000,
+  "ingredients": {
+    "3": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "4": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "5": "create:iron_sheet",
+    "6": "create:iron_sheet",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "14": "kinetic_pixel_fix:pistonexciter",
+    "15": "minecraft:iron_ingot",
+    "16": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "18": "kinetic_pixel_fix:andesitealloycompressionsheet",
+    "19": "create:iron_sheet",
+    "20": "kinetic_pixel_fix:gascylinder",
+    "21": "create:cogwheel",
+    "22": "kinetic_pixel_fix:ammunitionbox",
+    "30": "kinetic_pixel_fix:andesitealloycompressionsheet"
+  },
+  "result": {
+    "id": "pointblank:st_sandstorm",
+    "count": 1
+  }
+}

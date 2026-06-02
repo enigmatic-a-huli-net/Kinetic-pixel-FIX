@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "A": {
+      "item": "kinetic_pixel_fix:specialsteelingot"
+    },
+    "B": {
+      "item": "create:cogwheel"
+    },
+    "C": {
+      "item": "minecraft:glass_pane"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "E": {
+      "item": "kinetic_pixel_fix:componenttemplate"
+    },
+    "F": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "ABAA",
+    "CDC ",
+    "AEFA"
+  ],
+  "result": {
+    "id": "pointblank:polareye400"
+  }
+}

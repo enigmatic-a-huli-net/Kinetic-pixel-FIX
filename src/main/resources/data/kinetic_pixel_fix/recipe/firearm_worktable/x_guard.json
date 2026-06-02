@@ -1,0 +1,31 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_4",
+  "craft_time": 2400,
+  "ingredients": {
+    "2": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "3": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "4": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "5": "create:iron_sheet",
+    "6": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "7": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "9": "kinetic_pixel_fix:barrel",
+    "10": "create:cogwheel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "kinetic_pixel_fix:barrel",
+    "13": "kinetic_pixel_fix:ammunitionbox",
+    "14": "create:precision_mechanism",
+    "15": "minecraft:iron_ingot",
+    "18": "kinetic_pixel_fix:ammunitionbox",
+    "19": "kinetic_pixel_fix:ammunitionbox",
+    "20": "kinetic_pixel_fix:ammunitionbox",
+    "21": "kinetic_pixel_fix:strikerexciter",
+    "22": "create:iron_sheet",
+    "24": "create:iron_sheet",
+    "31": "create:iron_sheet"
+  },
+  "result": {
+    "id": "pointblank:x_guard",
+    "count": 1
+  }
+}

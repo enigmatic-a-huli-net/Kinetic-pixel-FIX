@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "kinetic_pixel_fix:wild_gray_cotton",
+                  "properties": { "age": "3" }
+                }
+              ],
+              "name": "kinetic_pixel_fix:graycotton"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:binomial",
+                "n": 3,
+                "p": 0.5714286
+              },
+              "add": true
+            },
+            {
+              "function": "minecraft:apply_bonus",
+              "enchantment": "minecraft:fortune",
+              "formula": "minecraft:binomial_with_bonus_count",
+              "parameters": { "extra": 3, "probability": 0.5714286 }
+            },
+            {
+              "function": "minecraft:limit_count",
+              "limit": { "min": 1 }
+            }
+          ],
+          "name": "kinetic_pixel_fix:gray_cotton_seeds"
+        }
+      ]
+    }
+  ]
+}

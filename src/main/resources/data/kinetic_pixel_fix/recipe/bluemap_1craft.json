@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "dad"
+  ],
+  "key": {
+    "a": {
+      "item": "kinetic_pixel_fix:smelter_fiber"
+    },
+    "b": {
+      "item": "minecraft:trial_key"
+    },
+    "c": {
+      "item": "kinetic_pixel_fix:bluemap_1"
+    },
+    "d": {
+      "item": "kinetic_pixel_fix:nitropropellant"
+    }
+  },
+  "result": {
+    "id": "kinetic_pixel_fix:bluemap_1",
+    "count": 2
+  }
+}

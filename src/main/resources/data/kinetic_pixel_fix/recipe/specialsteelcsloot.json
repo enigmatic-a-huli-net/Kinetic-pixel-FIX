@@ -1,0 +1,103 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kinetic_pixel_fix:specialsteelingot"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "id": "kinetic_pixel_fix:specialsteelcompressionsheet",
+      "count": 1
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet"
+        },
+        {
+          "amount": 1000,
+          "fluid": "minecraft:lava",
+          "type": "fluid_stack"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet"
+        },
+        [
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet"
+        },
+        [
+          {
+            "item": "kinetic_pixel_fix:specialsteelingot"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "id": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "kinetic_pixel_fix:incompletespecialsteelcompressionsheet"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "c a",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "kinetic_pixel_fix:andesitealloycompressionsheet"
+    },
+    "b": {
+      "item": "create:iron_sheet"
+    },
+    "c": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "id": "kinetic_pixel_fix:emptygascylinder",
+    "count": 1
+  }
+}

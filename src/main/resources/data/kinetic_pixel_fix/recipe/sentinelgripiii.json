@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "key": {
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "kinetic_pixel_fix:specialsteelingot"
+    },
+    "B": {
+      "item": "create:cogwheel"
+    },
+    "A": {
+      "item": "kinetic_pixel_fix:componenttemplate"
+    }
+  },
+  "pattern": [
+    " AB",
+    "CDD"
+  ],
+  "result": {
+    "id": "pointblank:sentinelgripiii"
+  }
+}

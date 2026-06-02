@@ -1,0 +1,30 @@
+{
+  "type": "kinetic_pixel_fix:firearm_worktable",
+  "blueprint": "kinetic_pixel_fix:bluemap_4",
+  "craft_time": 13200,
+  "ingredients": {
+    "2": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "3": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "4": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "5": "create:iron_sheet",
+    "6": "create:iron_sheet",
+    "10": "kinetic_pixel_fix:barrel",
+    "11": "kinetic_pixel_fix:barrel",
+    "12": "create:precision_mechanism",
+    "13": "create:cogwheel",
+    "14": "kinetic_pixel_fix:ammunitionbox",
+    "15": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "18": "kinetic_pixel_fix:barrel",
+    "19": "kinetic_pixel_fix:barrel",
+    "20": "kinetic_pixel_fix:pistonexciter",
+    "21": "minecraft:iron_ingot",
+    "23": "create:iron_sheet",
+    "26": "kinetic_pixel_fix:specialsteelcompressionsheet",
+    "27": "kinetic_pixel_fix:gascylinder",
+    "30": "create:iron_sheet"
+  },
+  "result": {
+    "id": "pointblank:x_medusa",
+    "count": 1
+  }
+}

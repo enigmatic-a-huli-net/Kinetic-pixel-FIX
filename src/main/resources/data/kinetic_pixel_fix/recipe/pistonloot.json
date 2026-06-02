@@ -1,0 +1,38 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "create:copper_sheet"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "item": "create:cogwheel"
+    },
+    "F": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "pattern": [
+    "AAA ",
+    "BGCD",
+    "AEFA",
+    " F  "
+  ],
+  "result": {
+    "id": "kinetic_pixel_fix:pistonexciter",
+    "count": 1
+  },
+  "accept_mirrored": false,
+  "category": "misc"
+}
